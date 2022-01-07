@@ -1,0 +1,35 @@
+/* ============== COMPONENTS ============== */
+.container {
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.footer__container {
+  display: flex;
+}
+.footer__container2 {
+  margin-left: 70px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+.unvisible {
+  color: var(--primary-white-color);
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.no-margin.list {
+  margin: 0;
+}
+
+.no-margin {
+  margin: 0;
+}
+/* ============== END COMPONENTS ============== */
